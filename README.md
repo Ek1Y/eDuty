@@ -7,6 +7,6 @@
 [ox_lib](https://github.com/overextended/ox_lib)
 [qtarget](https://github.com/overextended/qtarget)
 
-## Previvew ##
+## Preview ##
 
 https://imgur.com/9Ip1wh7
