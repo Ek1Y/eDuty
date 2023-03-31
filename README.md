@@ -9,4 +9,4 @@
 
 ## Preview ##
 
-https://imgur.com/9Ip1wh7
+https://i.imgur.com/9Ip1wh7.png
